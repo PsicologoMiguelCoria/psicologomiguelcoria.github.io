@@ -2,9 +2,9 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Psicoterapia En linea.
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+Consulta psicológica vía remota, a través de videollamada. Pensado para personas que por distintas circunstancias no pueden asistir a consulta psicológica presencial. El horario de atención es acordado según disponibilidad de paciente y terapeuta.
+
+    Costo general: $400 por sesión.
