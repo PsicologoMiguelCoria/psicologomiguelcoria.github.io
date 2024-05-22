@@ -10,8 +10,8 @@ description: > # "Como profesional en psicología clínica, brindo servicio de p
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2024 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: ''
+credits: 'Copyright &copy; 2024 Psicologo Miguel Coria. Todos los derechos reservados.'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -28,7 +28,7 @@ permalink: pretty
 social:
   - title: twitter
     url: https://twitter.com
-  - title: github
-    url: 
+  - title: Youtube
+    url: https://www.youtube.com/@VeAlPsicologo
   - title: linkedin
     url: 
