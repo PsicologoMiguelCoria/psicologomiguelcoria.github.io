@@ -2,7 +2,9 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Psicoterapia
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Ante las emociones negativas de enojo, tristeza o angustia, se requiere un aprendizaje de cómo modular el pensamiento y las respuestas fisiológicas. La psicoterapia enseña a las personas a cambiar su estilo de pensamiento disfuncionales por otros más adaptativos, realistas y generadores de bienestar.
+
+    Costo general: $500 por sesión.
