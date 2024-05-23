@@ -5,6 +5,7 @@ category: Services
 title: Bienvenido A Su Proceso Psicológico.
 description: |
 ---
+<div align="justify">
 <p>Brindo servicio de psicoterapia especializada en el modelo cognitivo conductual. Las consultas presenciales están limitadas a la ciudad de Morelia, Michoacán. México. Mi consultorio se encuentra ubicado cómodamente en el centro de la ciudad.</p>
 
 <p>También ofrezco mis servicios a distancia por medio de video llamada. La telemedicina ha demostrado que la distancia no es un impedimento para atenderle con la calidad que usted merece. Te escucho desde cualquier parte del mundo.</p>
