@@ -5,6 +5,8 @@ category: Services
 title: Psicoterapia En linea.
 description: |
 ---
-Consulta psicológica vía remota, a través de videollamada. Pensado para personas que por distintas circunstancias no pueden asistir a consulta psicológica presencial. El horario de atención es acordado según disponibilidad de paciente y terapeuta.
+<div align="justify">
+<p>Consulta psicológica vía remota, a través de videollamada. Pensado para personas que por distintas circunstancias no pueden asistir a consulta psicológica presencial. El horario de atención es acordado según disponibilidad de paciente y terapeuta.</p>
 
-    Costo general: $400 por sesión.
+<p>Costo general: $400 por sesión.</p>
+</div>
