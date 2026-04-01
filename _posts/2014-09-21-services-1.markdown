@@ -10,5 +10,5 @@ description: |
 <p>Ante este malestar se requiere un aprendizaje de cómo modular el pensamiento y las respuestas fisiológicas.</p>
 <p>La psicoterapia enseña a las personas a cambiar su estilo de pensamiento disfuncionales por otros más adaptativos, realistas y generadores de bienestar.</p>
 
-<p>Costo general: $500 por sesión.</p>
+<p>Costo general: $600 por sesión.</p>
 </div>
